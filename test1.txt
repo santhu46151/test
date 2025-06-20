@@ -1,4 +1,2 @@
-alpha
 Hello World 
-gamma
 This is our Day-3 Technical Training by Trail Bliz 
